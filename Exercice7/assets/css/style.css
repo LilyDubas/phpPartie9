@@ -1,0 +1,21 @@
+.container{
+  background-color: #9CD8CB;
+  width: 100%;
+  justify-content: center;
+}
+#aboutTime{
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  background-color: #9CD8CB;
+  display: flex;
+  position: relative;
+}
+#header{
+  margin-left: 25%;
+}
+#date{
+  width:70%;
+  border-style: solid;
+  border-color: #9CD8CB;
+}
