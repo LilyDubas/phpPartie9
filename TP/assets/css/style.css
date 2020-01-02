@@ -141,3 +141,15 @@ body{
   .clear{
     clear:both;
   }
+#holidays{
+  width:80%;
+}
+#titles{
+font-weight: bolder;
+}
+#seasonsExp{
+  width: 80%;
+}
+#seasons{
+  display: block;
+}
