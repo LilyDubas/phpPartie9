@@ -55,6 +55,34 @@
       </p>
       <img src="/assets/img/saison-rotation.gif" alt="inclinaison de la Terre gif">
     </div>
+    <div class="p-1 m-5">
+      <h1>Les phases de la Lune</h1>
+      <p>
+        Notre belle planète la Terre tourne autour du Soleil et tourne également sur elle-même. Et autour de la planète bleue, tourne un satellite. Ce satellite, c’est la Lune.
+        La Lune est visible grâce à la lumière du Soleil, qui se réfléchit dessus.
+      </p>
+      <p>
+        Etant donné que la Lune n’est pas toujours positionnée de la même façon, son éclairage varie.
+        C’est la raison pour laquelle on ne la voit pas toujours pareil : en croissant, en quartier ou en pleine lune.
+      </p>
+      <img src="assets/img/phases-lune.jpg" alt="les phases de la lunes">
+      <p>
+      <h2>Il existe 8 phases dans le cycle lunaire :</h2>
+        <ul class="d-block">
+          <li><span class="text-secondary">Nouvelle lune :</span> difficile à observer, on peut la voir de jour mais pas la nuit.</li>
+          <li><span class="text-secondary">Premier croissant :</span> la Lune forme un croissant sur sa partie droite.</li>
+          <li><span class="text-secondary">Premier quartier :</span> toute la moitié droite est visible.</li>
+          <li><span class="text-secondary">Lune Gibbeuse croissante :</span> sa face visible est plus qu'à demi éclairée.</li>
+          <li><span class="text-secondary">Pleine lune :</span> la Lune est totalement éclairée</li>
+          <li><span class="text-secondary">Lune Gibbeuse décroissante :</span> sa face visible est plus qu'à demi éclairée.</li>
+          <li><span class="text-secondary">Dernier quartier :</span> moitié gauche visible.</li>
+          <li><span class="text-secondary">Dernier croissant :</span> croissant en C sur la partie gauche.</li>
+        </ul>
+      </p>
+      <p>
+        L'intervalle entre 2 pleines lunes dure toujours 29 jours, 12 heures et 44 minutes. On appelle cette période la lunaison.
+      </p>
+    </div>
   </div>
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
