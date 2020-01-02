@@ -18,6 +18,7 @@
       <a class="navbar-brand" href="index.php">Calendrier</a>
       <a class="navbar-brand" href="holidays.php">Vacances et jours fériés</a>
       <a class="navbar-brand" href="info.php">Infos pratiques</a>
+      <a class="navbar-brand" href="correction.php">Correction</a>
     </nav>
   </header>
   <div class="jumbotron m-auto" id="seasonsExp">
@@ -65,7 +66,7 @@
         Etant donné que la Lune n’est pas toujours positionnée de la même façon, son éclairage varie.
         C’est la raison pour laquelle on ne la voit pas toujours pareil : en croissant, en quartier ou en pleine lune.
       </p>
-      <img src="assets/img/phases-lune.jpg" alt="les phases de la lunes">
+      <img src="assets/img/phases-lune.jpg" alt="les phases de la lunes" id="phasesLune">
       <p>
       <h2>Il existe 8 phases dans le cycle lunaire :</h2>
         <ul class="d-block">

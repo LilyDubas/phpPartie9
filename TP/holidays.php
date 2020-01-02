@@ -18,6 +18,7 @@
       <a class="navbar-brand" href="index.php">Calendrier</a>
       <a class="navbar-brand" href="holidays.php">Vacances et jours fériés</a>
       <a class="navbar-brand" href="info.php">Infos pratiques</a>
+      <a class="navbar-brand" href="correction.php">Correction</a>
     </nav>
   </header>
   <div class="jumbotron">
@@ -31,7 +32,7 @@
           Date
         </td>
       </thead>
-      <tbody>
+      <tbody class="text-center">
         <tr>
           <td>
             Jour de l'an
